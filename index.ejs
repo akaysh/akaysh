@@ -1,0 +1,76 @@
+<h1>Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
+
+<p align="center">Welcome to my github homepage! </br> I'm <%= meta.firstName %>, a <%= meta.role %>, figuring out life one line of code at a time. %></b>.</p>
+
+<p>
+    <%= meta.about %>
+</p>
+
+<div align="center">
+    <img src="assets/code.gif" alt="busy" />
+</div>
+
+<!-- TECHNOLOGIES -->
+<h3>:zap: Technologies</h3>
+
+<p>
+<% for(const [name, logo] of Object.entries(technologies)) { %><img alt="<%= name %>" src="<%= logo %>" /> <% } %>
+</p>
+
+<!-- PROJECTS -->
+<h3>:computer: Open Source Projects</h3>
+
+<table>
+    <thead>
+        <td>🎁 Project </td>
+        <td> ⭐ Stars </td>
+        <td> 📚 Forks </td>
+    </thead>
+    <% for(const project of projects) { %><tr>
+        <td><a href="<%= project.url %>"><%= project.name %></a></td>
+        <td><img src="<%= project.stars %>" /></td>
+        <td><img src="<%= project.forks %>" /></td>
+    </tr><% } %>
+</table>
+
+<!-- POSTS -->
+<h3>:mailbox_with_mail: Blogs</h3>
+
+<ul>
+    <% for(const post of posts) { %><li>
+        <a href="<%= post.url %>"><b><%= post.title %></b></a>
+    </li><% } %>
+</ul>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+<p>
+<img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=akaysh&color=blue"/>
+<img alt="Profile Views" src="https://komarev.com/ghpvc/?username=akaysh"/>
+</p>
+
+<a align="center" href="https://akaysh.netlify.app/">
+    <img src="https://github-readme-stats.vercel.app/api?username=akaysh&show_icons=true&theme=gruvbox" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akaysh&layout=compact&theme=gruvbox" alt="languages" height="165">
+</a>
+
+<!-- SOCIAL -->
+<h3>:telephone_receiver: Contact Me!</h3>
+
+<p>
+    <% for(const { name, url, logo } of social) { %><a href="<%= url %>" target="_blank">
+        <img alt="<%= name %>" src="<%= logo %>" />
+    </a><% } %>
+</p>
+
+<hr />
+
+<!-- FOOTER -->
+<p align="center">
+    This <i>README</i> file is generated <b>every 24 hours</b>!</br>
+    Last refresh: <%= lastRunOn %><br />
+</p>
+<p align="center">
+    <img src="https://github.com/akaysh/akaysh/workflows/README%20build/badge.svg" /> 
+    <img alt="Stars" src="https://img.shields.io/github/stars/akaysh/akaysh?style=flat-square&labelColor=343b41"/> 
+    <img alt="Forks" src="https://img.shields.io/github/forks/akaysh/akaysh?style=flat-square&labelColor=343b41"/>
+</p>
