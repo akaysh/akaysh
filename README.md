@@ -76,7 +76,7 @@ If our interests match or you just want to say Hi! just drop an email or ping me
 </a>
 
 <!-- SOCIAL -->
-<h3>:milky_way: Find me in the 'verse</h3>
+<h3>:telephone_receiver: Contact Me!</h3>
 
 <p>
     <a href="https://github.com/akaysh" target="_blank">
