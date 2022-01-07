@@ -96,7 +96,7 @@ If our interests match or you just want to say Hi! just drop an email or ping me
     Last refresh: 2022-01-06T01:07:23.893Z<br />
 </p>
 <p align="center">
-    <img src="https://github.com/akaysh/akaysh/workflows/README%20build/badge.svg" /> 
+    <img src="https://github.com/akaysh/akaysh/workflows/Update%20GitHub%20Profile%20README/badge.svg" /> 
     <img alt="Stars" src="https://img.shields.io/github/stars/akaysh/akaysh?style=flat-square&labelColor=343b41"/> 
     <img alt="Forks" src="https://img.shields.io/github/forks/akaysh/akaysh?style=flat-square&labelColor=343b41"/>
 </p>
