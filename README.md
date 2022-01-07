@@ -7,7 +7,7 @@
 I’m passionate about building tools to help people save time and do more with their lives. ¯\ (ツ) /¯
 
 
-I am a graduate student in College of Information and Computer Sciences at University of Massachusetts Amherst doing my Masters with a focus on Machine Learning and NLP. You can read my research articles  [here](https://scholar.google.com/citations?hl=en&user=dO6oyWQAAAAJ). I also worked as a software developer at Intuit IDC (TurboTax Desktop Team) from Aug 2017 to July 2021. I did my bachelors (B.Tech) from National Institute of Technology, Karnataka with a major in Information Technology. I am an Open Source contributor and my interests like in Machine Learning and Natural Language Processing. I like to solve real world problems with computer programming.
+I am a graduate student in College of Information and Computer Sciences at University of Massachusetts Amherst doing my Masters with a focus on Machine Learning and NLP. You can read my research articles  [here](https://scholar.google.com/citations?hl=en&user=dO6oyWQAAAAJ). I also worked as a software developer at Intuit IDC (TurboTax Desktop Team) from Aug 2017 to July 2021. I did my bachelors (B.Tech) from National Institute of Technology, Karnataka with a major in Information Technology. I am an Open Source contributor and my interests lie in Machine Learning and Natural Language Processing. I like to solve real world problems with computer programming.
 
 Most of my projects are hosted on github.
 
@@ -83,7 +83,7 @@ If our interests match or you just want to say Hi! just drop an email or ping me
         <img alt="github" src="https://img.shields.io/github/followers/akaysh?label=GitHub&amp;style=social" />
     </a><a href="https://linkedin.com/in/akshay-sharma-1995" target="_blank">
         <img alt="linkedin" src="https://img.shields.io/badge/Linkedin-grey?logo=linkedin&amp;style=social" />
-    </a><a href="https://twitter.com/vidhi_mody" target="_blank">
+    </a><a href="https://twitter.com/akay_sh" target="_blank">
         <img alt="twitter" src="https://img.shields.io/twitter/follow/akay_sh?label=Twitter&amp;style=social" />
     </a>
 </p>
