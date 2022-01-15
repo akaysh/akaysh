@@ -60,7 +60,7 @@ If our interests match or you just want to say Hi! just drop an email or ping me
 
 <ul>
     <li>
-        <a href="https://https://akaysh.github.io/"><b>My Posts</b></a>
+        <a href="https://akaysh.github.io/"><b>My Posts</b></a>
     </li>
 </ul>
 
