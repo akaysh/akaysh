@@ -1,15 +1,17 @@
 [meta]
 firstName = "Akshay"
 lastName = "Sharma"
-role = "Software Developer"
-about = """I’m passionate about building tools to help people save time and do more with their lives. ¯\ (ツ) /¯
+role = "Senior ML Engineer at Lyft"
+about = """I’m passionate about building tools to help people save time and do more with their lives. ¯\\ (ツ) /¯
 
 
-I am a graduate student in College of Information and Computer Sciences at University of Massachusetts Amherst doing my Masters with a focus on Machine Learning and NLP. You can read my research articles  [here](https://scholar.google.com/citations?hl=en&user=dO6oyWQAAAAJ). I also worked as a software developer at Intuit IDC (TurboTax Desktop Team) from Aug 2017 to July 2021. I did my bachelors (B.Tech) from National Institute of Technology, Karnataka with a major in Information Technology. I am an Open Source contributor and my interests lie in Machine Learning and Natural Language Processing. I like to solve real world problems with computer programming.
+I am a Senior ML Engineer at Lyft. I build evaluation and agent infrastructure for customer-support AI agents: LangGraph agents, LLM-as-judge evals and data flywheels. I also work on fine-tuning LLMs and post-training techniques. Before this, I was on the Pricing Optimization team, building ML and RL models to maximize revenue.
+
+Earlier, I did my Masters in the College of Information and Computer Sciences at University of Massachusetts Amherst with a focus on Machine Learning and NLP. You can read my research articles [here](https://scholar.google.com/citations?hl=en&user=dO6oyWQAAAAJ). Before that, I worked as a software developer at Intuit IDC (TurboTax Desktop Team) from Aug 2017 to July 2021. I did my bachelors (B.Tech) from National Institute of Technology, Karnataka with a major in Information Technology. I am an Open Source contributor and my interests lie in Machine Learning and Natural Language Processing. I like to solve real world problems with computer programming.
 
 Most of my projects are hosted on github.
 
-When I’m not hacking on code I will most likely be playing football, fiddling with my guitar ,reading a fiction, gaming with my friends or watching some anime.
+When I’m not hacking on code I will most likely be playing football, fiddling with my guitar, reading fiction, gaming with my friends or watching some anime.
 
 If our interests match or you just want to say Hi! just drop an email or ping me on twitter. My social networking details are shared below."""
 
@@ -21,7 +23,7 @@ logo = "https://img.shields.io/github/followers/akaysh?label=GitHub&style=social
 [[social]]
 name = "linkedin"
 url = "https://linkedin.com/in/akshay-sharma-1995"
-logo = "https://img.shields.io/badge/Linkedin-grey?logo=linkedin&style=social"
+logo = "https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square"
 
 [[social]]
 name = "twitter"

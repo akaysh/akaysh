@@ -52,8 +52,20 @@ const parseProperties = async (filePath) => {
   return toml.parse(properties)
 }
 
+const FALLBACK_POSTS = [{ url: 'https://akaysh.github.io/', title: 'My Posts' }]
+
+const getPostsOrFallback = async () => {
+  try {
+    const posts = await getRecentPosts()
+    return posts.length > 0 ? posts : FALLBACK_POSTS
+  } catch (error) {
+    console.warn(`Algolia lookup failed, using fallback link: ${error.message}`)
+    return FALLBACK_POSTS
+  }
+}
+
 const main = async () => {
-  const posts = await getRecentPosts()
+  const posts = await getPostsOrFallback()
 
   const propertiesObj = await parseProperties('./config.toml')
 
